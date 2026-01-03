@@ -5,6 +5,8 @@
 ![Autonomous](https://img.shields.io/badge/autonomous-91%25-green)
 ![Advent of Code](https://img.shields.io/badge/advent--of--code-2025-red)
 
+https://github.com/user-attachments/assets/bbb2d8fa-72dc-4224-acbf-43486058dc24
+
 > **TL;DR**: I gave Claude Code a single instruction file and it autonomously solved 11 days of Advent of Code 2025. It browsed the web, read puzzles, wrote code, tested solutions, and submitted answers - all without human intervention. **Zero lines of code written by hand. 20/22 challenges solved (91%).**
 
 ## By The Numbers
@@ -158,3 +160,4 @@ The age of autonomous coding agents isn't coming - it's already here. The future
 **Keywords**: AI automation, autonomous coding, Claude AI, Advent of Code, AI agents, code generation, LLM programming, autonomous development, Claude Code, Sonnet 4.5, zero human code, fully autonomous AI
 
 **Topics**: `artificial-intelligence` `automation` `advent-of-code` `claude-ai` `autonomous-agents` `code-generation` `python` `llm` `ai-coding`
+
